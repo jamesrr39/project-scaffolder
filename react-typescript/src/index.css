@@ -9,6 +9,7 @@ body {
   font-family: sans-serif;
 }
 
-.data-table-component td,th {
+.data-table-component td,
+th {
   padding: 0;
 }

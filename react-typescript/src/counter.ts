@@ -8,8 +8,6 @@ const initialState: CounterState = {
   count: 0,
 };
 
-type MutateTableProps = { workbookId: number; itemId: number };
-
 export const counterSlice = createSlice({
   name: "counter",
   initialState,
